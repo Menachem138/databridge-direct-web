@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Allow: /research
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /sitemap.xml
+Disallow: /admin
+Disallow: /guide
+Disallow: /api/state
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://databridgedirect.com/sitemap.xml

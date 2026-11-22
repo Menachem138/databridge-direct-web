@@ -1,0 +1,22 @@
+# DataBridge Advisory — Direct Enterprise AI Data Licensing Benchmark & Research Hub
+
+> Independent B2B eligibility router, contract audit hub, and compliance checklist for established companies, winding-down startups, law/CPA/healthcare practices, and IT/CFO advisors evaluating operational data licensing to frontier AI data programs at 0.0% seller broker commission.
+
+Canonical URL: https://databridgedirect.com
+Full Machine-Readable Corpus: https://databridgedirect.com/llms-full.txt
+Sitemap: https://databridgedirect.com/sitemap.xml
+
+## Core Function
+DataBridge compares the 5 direct principal enterprise AI data acquisition programs — **micro1 Company Data Partnerships**, **Mode.inc Data Partnerships**, **Mercor Data Monetization**, **SourceX Direct Licensing**, and **Scale AI Data Partnerships** — without charging the 20% seller-side commission deducted by third-party referral brokers (such as DataSupply.ai).
+
+## Primary Research & Contract Audits (November 2026)
+- [How to License Company Operational Data to AI Labs in 2026: 5 Direct Buyers Compared (0% Broker Fee)](https://databridgedirect.com/research/sell-company-data-to-ai-labs-direct-buyers-2026): Side-by-side matrix of micro1, Mode.inc, Mercor Data, SourceX, and Scale AI headcount floors, payout schedules ($10K–$3M+), and de-identification pipelines.
+- [DataSupply.ai Review & Contract Audit (2026): Why Paying a 20% Seller Broker Fee Costs Companies $20K–$200K+](https://databridgedirect.com/research/datasupply-ai-review-20-percent-seller-fee-audit): Primary-source audit of Chang Strategic LTD's 20% seller cut, liability shifting, 90-day overwrite terms, and free direct alternatives.
+- [Winding Down a Funded Startup? How to Monetize Slack, Google Workspace & GitHub Data Before SaaS Deletion Clocks Hit](https://databridgedirect.com/research/winding-down-startup-sell-data-before-shutdown): Pre-shutdown SaaS retention clocks (Google Workspace 60d, M365 90–180d) and statutory wind-up signatory rules for micro1 ($100K–$3M+, 30d wire) and SourceX.
+- [AI Data Licensing for Law Firms (5–300 Staff), CPA Practices & Healthcare Clinics](https://databridgedirect.com/research/law-firm-accounting-cpa-medical-ai-data-licensing): Small-practice qualification (5–15+ staff at Mode.inc & Mercor) with ABA Model Rule 1.6, IRC § 7216, and HIPAA 45 CFR § 164.514 Safe Harbor boundaries.
+- [What Is Your Company’s Google Workspace, Slack & Salesforce Archive Worth to AI Labs? (2026 Pricing Tiers)](https://databridgedirect.com/research/google-workspace-slack-salesforce-data-value-estimator): Valuation drivers across US Google Workspace Power User ($500K ceiling), Manufacturing ($1.5M), and linked SaaS workflows.
+- [CISO & General Counsel Checklist: 9 Contract & VPC Anonymization Controls Before Licensing Corporate Data to AI](https://databridgedirect.com/research/enterprise-ai-data-de-identification-vpc-security-checklist): Technical due diligence covering in-VPC scrubbing (Scale AI), 120-day raw deletion (micro1 s.4.4), secret stripping, and two-party wiretap filters.
+
+## Fee & FTC Material Connection Policy (16 CFR § 255.5)
+- **0.0% Fee to Data Holders:** Companies contract directly with principal buyers and retain 100% of negotiated license proceeds and IP ownership.
+- **Transparent Buyer Compensation:** Acquiring platforms pay DataBridge a separate introducer fee only when a completed licensing partnership closes, at zero cost or deduction to the selling organization.
